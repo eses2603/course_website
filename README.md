@@ -1,16 +1,26 @@
+# Online Course Platform
 
-<h1> Course-Website </h1>
+A responsive course platform landing page designed to present educational content and programs.
 
-I've independently designed and coded a responsive course website, and it's ready to explore!
+## 🚀 Tech Stack
+- HTML
+- CSS
 
-🔸 Project Name: Course Web Site
+## 🔐 Features
+- Course listing sections
+- Instructor presentation
+- Learning platform UI layout
+- Responsive design
 
-🔸 Technologies Used: HTML, CSS
+## 🧠 Architecture & Focus
+- Landing page structure
+- Education platform interface
+- Responsive design principles
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, 
-
-from mobile phones to desktop computers...
-
-<h2>Screen_Shoot</h2>
-
+## 📷 Demo
 ![](screen-course-website.gif)
+
+## 💡 Future Improvements
+- Course enrollment
+- User login system
+- Dashboard page
